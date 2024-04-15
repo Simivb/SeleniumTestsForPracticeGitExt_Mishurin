@@ -25,7 +25,6 @@ public class SelenuimTestsForPractice
 
         var password = driver.FindElement(By.Name("Password"));
         password.SendKeys("78h46j3014Ff.@123");
-        Thread.Sleep(5000);
 
         //нажать на кнопку "войти"
         var enter = driver.FindElement(By.Name("button"));
