@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rs8ppOHPq/Lo6eRJDVpZNzflQ1z5hrX4tVg3QvjEx1FGO4Ix5NplIz7U5qOM/NYlpff+rz4cAiuQh/EuGEgeuA==",
+  "dgSpecHash": "bu0myytf+m9h6/B8PnIASyNulE5ybcpwKuCK7HXG5uGFWny4VPlJfYovFvVXOLp0N/Tqi4DkuVUoxFh57TFhDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Иван\\RiderProjects\\SeleniumTest_Mishurin\\SeleniumTest_Mishurin\\SeleniumTest_Mishurin.csproj",
+  "projectFilePath": "C:\\Users\\Иван\\RiderProjects\\SeleniumTestGitExt_Mishurin\\SeleniumTest_Mishurin\\SeleniumTest_Mishurin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Иван\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",

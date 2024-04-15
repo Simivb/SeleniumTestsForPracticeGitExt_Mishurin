@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Иван\\RiderProjects\\SeleniumTest_Mishurin\\SeleniumTest_Mishurin\\SeleniumTest_Mishurin.csproj": {}
+    "C:\\Users\\Иван\\RiderProjects\\SeleniumTestGitExt_Mishurin\\SeleniumTest_Mishurin\\SeleniumTest_Mishurin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Иван\\RiderProjects\\SeleniumTest_Mishurin\\SeleniumTest_Mishurin\\SeleniumTest_Mishurin.csproj": {
+    "C:\\Users\\Иван\\RiderProjects\\SeleniumTestGitExt_Mishurin\\SeleniumTest_Mishurin\\SeleniumTest_Mishurin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Иван\\RiderProjects\\SeleniumTest_Mishurin\\SeleniumTest_Mishurin\\SeleniumTest_Mishurin.csproj",
+        "projectUniqueName": "C:\\Users\\Иван\\RiderProjects\\SeleniumTestGitExt_Mishurin\\SeleniumTest_Mishurin\\SeleniumTest_Mishurin.csproj",
         "projectName": "SeleniumTest_Mishurin",
-        "projectPath": "C:\\Users\\Иван\\RiderProjects\\SeleniumTest_Mishurin\\SeleniumTest_Mishurin\\SeleniumTest_Mishurin.csproj",
+        "projectPath": "C:\\Users\\Иван\\RiderProjects\\SeleniumTestGitExt_Mishurin\\SeleniumTest_Mishurin\\SeleniumTest_Mishurin.csproj",
         "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Иван\\RiderProjects\\SeleniumTest_Mishurin\\SeleniumTest_Mishurin\\obj\\",
+        "outputPath": "C:\\Users\\Иван\\RiderProjects\\SeleniumTestGitExt_Mishurin\\SeleniumTest_Mishurin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config"
